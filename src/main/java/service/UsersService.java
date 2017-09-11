@@ -4,5 +4,5 @@ import entity.User;
 
 public interface UsersService {
 
-    User addUsers(String nickname);
+    User addUser(String username,String password);
 }
