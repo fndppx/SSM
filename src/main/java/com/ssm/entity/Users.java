@@ -1,6 +1,6 @@
-package entity;
+package com.ssm.entity;
 
-public class User {
+public class Users {
     private int id;
     private String username;
     private String password;
